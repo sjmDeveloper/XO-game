@@ -5,8 +5,7 @@ A C++ desktop Tic-Tac-Toe (XO) game featuring a graphical user interface and a s
 
 ## 2. Motivation & Features
 * **Motivation:** Built to practice and demonstrate GUI desktop application development and game logic implementation using C++.
-* **Key Features:**
-  * **Scripted Bot Opponent:** Play against a rule-based AI bot.
+* **Key Features:** 
   * **Desktop GUI:** Clean and responsive graphical interface for smooth gameplay.
   * **Lightweight & Fast:** Compiled natively with C++ and CMake.
 
