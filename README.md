@@ -53,11 +53,11 @@ cmake --build .
 ### 2. Run the Game
 * **On Linux:**
   ```bash
-  ./XO-game
+  ./XO_
   ```
 * **On Windows (CMD):**
   ```cmd
-  XO-game.exe
+  XO_.exe
   ```
 
 ## 5. Future Features (Roadmap)
